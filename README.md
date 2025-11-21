@@ -1,8 +1,4 @@
 # AI-nigma
-Below is a **complete, polished, production-ready `README.md`** for your GitHub repository.
-It includes everything: badges, setup, screenshots placeholders, API docs, ML pipeline, future scope, and more.
-
----
 
 # 💰 Smart Transaction Categorization System
 
